@@ -1,0 +1,6 @@
+C:\Users\lexaz\source\repos\Music\Music\bin\Release\Music.exe.config
+C:\Users\lexaz\source\repos\Music\Music\bin\Release\Music.exe
+C:\Users\lexaz\source\repos\Music\Music\bin\Release\Music.pdb
+C:\Users\lexaz\source\repos\Music\Music\obj\Release\Music.csproj.CoreCompileInputs.cache
+C:\Users\lexaz\source\repos\Music\Music\obj\Release\Music.exe
+C:\Users\lexaz\source\repos\Music\Music\obj\Release\Music.pdb
